@@ -56,3 +56,11 @@ The model was trained using linear regression, and the performance was evaluated
    ```bash
    git clone https://github.com/EmazinUs/housePricePredictionModel.git
 
+### Instructions for the README:
+- The **Technologies Used** section lists all the key libraries used for this project.
+- The **Data Preprocessing** section explains how you cleaned and prepared the data before training the model.
+- The **Model Training and Evaluation** section provides a brief explanation of how the model was trained and how its performance was evaluated.
+- The **How to Run the Project** section gives users the instructions on how to set up and run your project on their own systems.
+
+Feel free to modify the content as necessary based on your project specifics!
+
